@@ -46,16 +46,16 @@
 		D6BE712B1A630EAB00AE2E90 /* CheckFrequencyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CheckFrequencyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6BE71301A630EAB00AE2E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6BE71311A630EAB00AE2E90 /* CheckFrequencyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckFrequencyTests.swift; sourceTree = "<group>"; };
-		D6C1DFFC1A63CB1500CC04C0 /* 0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 0.mp3; path = ../../samples/0.mp3; sourceTree = "<group>"; };
-		D6C1DFFD1A63CB1500CC04C0 /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 1.mp3; path = ../../samples/1.mp3; sourceTree = "<group>"; };
-		D6C1DFFE1A63CB1500CC04C0 /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 2.mp3; path = ../../samples/2.mp3; sourceTree = "<group>"; };
-		D6C1DFFF1A63CB1500CC04C0 /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 3.mp3; path = ../../samples/3.mp3; sourceTree = "<group>"; };
-		D6C1E0001A63CB1500CC04C0 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 4.mp3; path = ../../samples/4.mp3; sourceTree = "<group>"; };
-		D6C1E0011A63CB1500CC04C0 /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 5.mp3; path = ../../samples/5.mp3; sourceTree = "<group>"; };
-		D6C1E0021A63CB1500CC04C0 /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 6.mp3; path = ../../samples/6.mp3; sourceTree = "<group>"; };
-		D6C1E0031A63CB1500CC04C0 /* 7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 7.mp3; path = ../../samples/7.mp3; sourceTree = "<group>"; };
-		D6C1E0041A63CB1500CC04C0 /* 8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 8.mp3; path = ../../samples/8.mp3; sourceTree = "<group>"; };
-		D6C1E0051A63CB1500CC04C0 /* 9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 9.mp3; path = ../../samples/9.mp3; sourceTree = "<group>"; };
+		D6C1DFFC1A63CB1500CC04C0 /* 0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 0.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1DFFD1A63CB1500CC04C0 /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1DFFE1A63CB1500CC04C0 /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1DFFF1A63CB1500CC04C0 /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0001A63CB1500CC04C0 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0011A63CB1500CC04C0 /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0021A63CB1500CC04C0 /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0031A63CB1500CC04C0 /* 7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0041A63CB1500CC04C0 /* 8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8.mp3; sourceTree = SOURCE_ROOT; };
+		D6C1E0051A63CB1500CC04C0 /* 9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
